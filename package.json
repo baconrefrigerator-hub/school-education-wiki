@@ -1,0 +1,12 @@
+{
+  "name": "school-education-wiki",
+  "version": "1.0.0",
+  "description": "School Education Wiki with interactive snake game",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["education", "wiki", "game", "snake"],
+  "author": "",
+  "license": "MIT"
+}
